@@ -19,3 +19,8 @@ https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.y
 
 working with advanced formatting: 
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
+
+## Activity - Learn task lists
+- [x] Complete GitHub free training
+- [ ] Do cool stuff
+- [ ] Share it with frens
